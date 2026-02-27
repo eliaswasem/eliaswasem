@@ -11,7 +11,6 @@
 ## 🚀 About Me
 
 - 📘 Learning **Java**
-- 🧠 Writing code to understand how it works
 - 🐧 Using **Linux Mint** as my daily OS
   
 ---
