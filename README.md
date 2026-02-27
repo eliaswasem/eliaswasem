@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">
+  👋 Hi <span style="color:#7c6cff;"></span>
+</h1>
 
-<!--
-**eliaswasem/eliaswasem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  ☕ Learning Java • 🐧 Linux Mint
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 📘 Learning **Java**
+- 🧠 Writing code to understand how it works
+- 🐧 Using **Linux Mint** as my daily OS
+  
+---
+
+## 🧩 What I'm Working On
+
+- Java basics 
+- Small console programs
+- Debugging and reading error messages
+- Writing code without copying it 1:1
+
+---
+
+## 🧰 Tech Stack
+
+### Language
+![Learning Java](https://img.shields.io/badge/Learning%20Java-orange?style=flat-round&logo=openjdk&logoColor=white)
+
+### Tools & System
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-round&logo=linuxmint&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-round&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-round&logo=visualstudiocode&logoColor=white)
+
+---
